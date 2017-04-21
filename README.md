@@ -14,6 +14,8 @@
 * [CSS 实战](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2016/css-practice)
 * [Angular2](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2016/angular2)
 * [ES6 新特性](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2016/es6-feature)
+* [HTML5 新特性](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2016/html5-feature)
+* [Electron 介绍](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2016/electron)
 
 ## 代码片段
 
