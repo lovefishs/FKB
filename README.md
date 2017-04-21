@@ -20,6 +20,10 @@
 * [Electron 介绍](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2016/electron)
 * [ES6 新特性(2)](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2016/es6-feature2)
 
+### 2017
+
+* [思维导图分享](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2017/mind-mapping)
+
 ## 代码片段
 
 ### JavaScript
