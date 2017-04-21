@@ -2,9 +2,20 @@
 
 沃趣前端知识库
 
+## 代码规范
+
+[styleguide](http://192.168.1.121/front-end/styleguide/tree/master)
+
 ## 分享
 
-* [test](http://www.woqutech.com/)
+* [CSS 基础知识](http://192.168.1.121/front-end/fkb/blob/master/sharing-meeting/2016/css-bisic-knowledge/)
 
-## 其他
+## 代码片段
+
+### JavaScript
+
+### CSS
+
+### HTML
+
 
