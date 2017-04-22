@@ -24,6 +24,7 @@
 
 * [思维导图分享](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2017/mind-mapping)
 * [数组常用方法](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2017/javascript-array)
+* [CSS 布局实践](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2017/css-layout-practice)
 
 ## 代码片段
 
