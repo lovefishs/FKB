@@ -33,6 +33,8 @@
 
 ### JavaScript
 
+* [UUID 生成器](http://192.168.1.121/front-end/fkb/tree/master/code-snippet/javascript/uuid/uuid.js)
+
 ### CSS
 
 ### HTML
