@@ -27,6 +27,7 @@
 * [CSS 布局实践](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2017/css-layout-practice)
 * [webpack 实例讲解](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2017/webpack-demos)
 * [JavaScript Style Guide](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2017/javascript-style-guide)
+* [Promise 对象](http://192.168.1.121/front-end/fkb/tree/master/sharing-meeting/2017/promise)
 
 ## 代码片段
 
