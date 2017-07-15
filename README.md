@@ -10,7 +10,7 @@
 
 ### 2015
 
-* [浏览器的渲染原理简介](../tree/master/sharing-meeting/2015/how-browsers-work)
+* [浏览器的渲染原理简介](/sharing-meeting/2015/how-browsers-work)
 
 ### 2016
 
