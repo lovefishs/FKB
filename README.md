@@ -5,7 +5,7 @@
 
 ## 代码规范
 
-[styleguide](http://192.168.1.121/front-end/styleguide/tree/master)
+[styleguide](https://github.com/lovefishs/styleguide)
 
 ## 分享
 
