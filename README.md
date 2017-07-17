@@ -46,6 +46,8 @@
 
 ## 原创文章
 
+* [React 绑定 this 的方式](/article-original/react-bind-this-way.md)
+
 ## 转载文章
 
 * [API-Security-Checklist](/article-cite/api-security-checklist.md)(开发安全的 API 所需要核对的清单)
