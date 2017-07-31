@@ -34,6 +34,7 @@
 * [JavaScript Style Guide](/sharing-meeting/2017/javascript-style-guide)
 * [Promise 对象](/sharing-meeting/2017/promise)
 * [Vue.js 路由基础](/sharing-meeting/2017/vuejs-router-basic)
+* [前端自动化测试：介绍](/sharing-meeting/2017/front-end-automated-testing-01-introduce)
 
 ## 代码片段
 
