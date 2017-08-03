@@ -1,7 +1,6 @@
 # FKB - 前端知识库，Frontend Knowledge Base
 
 沃趣前端知识库。
-*注：使用基于 [github](https://github.com/lovefishs/FKB) 解释 README 文件的的 URL 规则设置链接*
 
 ## 代码规范
 
@@ -35,6 +34,7 @@
 * [Promise 对象](/sharing-meeting/2017/promise)
 * [Vue.js 路由基础](/sharing-meeting/2017/vuejs-router-basic)
 * [前端自动化测试：介绍](/sharing-meeting/2017/front-end-automated-testing-01-introduce)
+* [聊聊页面的美与丑](/sharing-meeting/2017/beauty-and-ugliness)
 
 ## 代码片段
 
