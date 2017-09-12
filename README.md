@@ -35,6 +35,7 @@
 * [Vue.js 路由基础](/sharing-meeting/2017/vuejs-router-basic)
 * [前端自动化测试：介绍](/sharing-meeting/2017/front-end-automated-testing-01-introduce)
 * [聊聊页面的美与丑](/sharing-meeting/2017/beauty-and-ugliness)
+* [前端单元测试](/sharing-meeting/2017/unit-testing)
 
 ## 代码片段
 
